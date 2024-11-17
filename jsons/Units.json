@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Black and Tans",
+		"name": "Celtic bowman",
 		"unitType": "Ranged",
 		"uniqueTo": "Eire",
 		"replaces": "Archer",
@@ -21,5 +21,72 @@
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 70
-	}
+	},
+	{
+		"name": "Dessert Father",
+		"unitType": "Civilian",
+		"uniqueTo": "Eire",
+		"replaces": "Settler",	
+		"movement": 4,
+		"cost": 10,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Seeker",
+		"unitType": "Scout",
+		"uniqueTo": "Eire",
+		"replaces": "Scout",	
+		"movement": 10,
+		"strength": 10,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Celtic Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Eire",
+		"replaces": "Warrior",		
+		"movement": 4,
+		"strength": 16,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
+	{
+		"name": "Currach",
+		"unitType": "Melee Water",
+		"uniqueTo": "Eire",
+		"replaces": "Trireme",		
+		"movement": 8,
+		"strength": 20,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Carnyx'er",
+		"unitType": "Scout",
+		"uniqueTo": "Eire",	
+		"movement": 7,
+		"strength": 49,
+		"cost": 14,
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "The sound of war"}
+		]
+	},
 ]
