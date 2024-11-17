@@ -4,13 +4,22 @@
 		"unitType": "Ranged",
 		"uniqueTo": "Eire",
 		"replaces": "Archer",
-		"movement": 3,
-		"strength": 99,
-		"rangedStrength": 46,
-		"range": 3,
+		"movement": 4,
+		"strength": 10,
+		"rangedStrength": 14,
+		"range": 4,
 		"cost": 50,
 		"requiredTech": "Archery",
 		"promotions": ["Logistics","Accuracy I", "Cover I"],
-		"attackSound": "metalhit"
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Brother",
+		"unitType": "Civilian",
+		"uniqueTo": "Eire",
+		"replaces": "Worker",	
+		"movement": 4,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
 	}
 ]
