@@ -3,13 +3,13 @@
 		"name": "Black and Tans",
 		"unitType": "Ranged",
 		"uniqueTo": "Eire",
-		"replaces": "Machine Gun",
+		"replaces": "Archer",
 		"movement": 3,
 		"strength": 99,
 		"rangedStrength": 46,
 		"range": 3,
 		"cost": 50,
-		"requiredTech": "Ballistics",
+		"requiredTech": "Archery",
 		"promotions": ["Logistics","Accuracy I", "Cover I"],
 		"attackSound": "metalhit"
 	}
