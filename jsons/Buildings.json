@@ -13,6 +13,27 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
+		"name": "Founding Stone",
+		"replaces": "Monument",
+		"uniqueTo": "Eire",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "High Altar",
+		"replaces": "Temple of Artemis",	
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+        "uniques": ["[+10]% [Food] [in all cities]", "[+15]% Production when constructing [Archery] units [in this city]",
+            "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]"],
+		"requiredTech": "Archery",
+		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
+	},
+	{
 		"name": "Shannon boaters",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Eire",
