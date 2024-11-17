@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Black and Tans",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Eire",
 		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
+		"movement": 3,
+		"strength": 99,
+		"rangedStrength": 46,
+		"range": 3,
+		"cost": 50,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"promotions": ["Logistics","Accuracy I", "Cover I"],
+		"attackSound": "metalhit"
 	}
 ]
