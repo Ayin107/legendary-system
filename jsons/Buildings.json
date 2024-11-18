@@ -64,6 +64,89 @@
 		"quote": "'The High King will rule them all'"
 	},
 	{
+		"name": "Olive Garden",
+		"replaces": "Hanging Gardens",		
+		"greatPersonPoints": {"Great Artist": 1},
+		"food": 10,
+		"culture": 1,
+		"isWonder": true,
+		"requiredTech": "Mathematics",
+		"quote": "'Its all sacrifice'"
+	},
+	{
+		"name": "Prayer House",
+		"replaces": "Temple",		
+		"culture": 3,
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"specialistSlots": {"Artist": 1},
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "The Lake of Learning",
+		"replaces": "The Oracle",	
+		"culture": 3,
+		"greatPersonPoints": {"Great Scientist": 1},
+		"isWonder": true,
+		"uniques": ["Free Social Policy"],
+		"requiredTech": "Philosophy",
+		"quote": "'The school for princes'"
+	},
+	{
+		"name": "Ancient pathways",
+		"replaces": "Colossus",		
+		"cost": 185,
+		"culture": 1,
+		"gold": 5,
+		"greatPersonPoints": {"Great Merchant": 1},
+		"isWonder": true,
+		"uniques": ["Must be next to [Coast]", "[+1 Gold] from [Water] tiles [in this city]"],
+		"requiredTech": "Bronze Working",
+		"quote": "'Take up the old ways...'"
+	},
+	{
+		"name": "The Pale",
+		"replaces": "Hagia Sophia",	
+		"isWonder": true,
+		"uniques": ["[+25]% Great Person generation [in all cities]"],
+		"requiredTech": "Theology",
+		"quote": "'They came to conquer'"
+	},
+	{
+		"name": "The Western Gate",
+		"replaces": "Angkor Wat",	
+		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["[-25]% Culture cost of natural border growth [in all cities]","[-25]% Gold cost of acquiring tiles [in all cities]"],
+		"requiredTech": "Theology",
+		"quote": "'The western gate of Europe'	{
+		},
+	{
+		"name": "Spanish shore",
+		"replaces": "Chichen Itza",	
+		"culture": 1,
+		"happiness": 4,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["[+50]% Golden Age length"],
+		"requiredTech": "Civil Service",
+		"quote": "'They crashed here'"
+	},	
+	{
+		"name": "Shepherds Hill",	
+		"replaces": "Machu Picchu",	
+		"gold": 5,
+		"greatPersonPoints": {"Great Merchant": 1},
+		"culture": 1,
+		"isWonder": true,
+		"uniques": ["[+25]% [Gold] from Trade Routes","Must have an owned [Mountain] within [2] tiles"],
+		"requiredTech": "Currency",
+		"quote": "'From slavery to freedom"
+	},
+	{
 		"name": "Shannon Bridge",
 		"replaces": "Statue of Zeus",		
 		"culture": 1,
