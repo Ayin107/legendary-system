@@ -122,7 +122,7 @@
 		"isWonder": true,
 		"uniques": ["[-25]% Culture cost of natural border growth [in all cities]","[-25]% Gold cost of acquiring tiles [in all cities]"],
 		"requiredTech": "Theology",
-		"quote": "'The western gate of Europe'	{
+		"quote": "'The western gate of Europe'"
 		},
 	{
 		"name": "Spanish shore",
