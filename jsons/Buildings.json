@@ -31,7 +31,47 @@
         "uniques": ["[+10]% [Food] [in all cities]", "[+15]% Production when constructing [Archery] units [in this city]",
             "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]"],
 		"requiredTech": "Archery",
-		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
+		"quote": "'He who controls the high places...'"
+	},
+	{
+		"name": "Jeremiahs Tomb",
+		"replaces": "Stonehenge",		
+		"culture": 6,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"requiredTech": "Calendar",
+		"quote": "'The Lost tribe shall rise'"
+	},
+	{
+		"name": "High Kings Hill",
+		"replaces": "The Pyramids",	
+		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["[-25]% construction time for [All] improvements","[2] free [Worker] units appear"],
+		"requiredTech": "Masonry",
+		"quote": "'Seek ye first the Kingdom'"
+	},
+	{
+		"name": "The Kings Stone",
+		"replaces": "Mausoleum of Halicarnassus",	
+		"culture": 1,
+		"greatPersonPoints": {"Great Merchant": 1},
+		"isWonder": true,
+		"uniques": ["Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
+			"[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]"],
+		"requiredTech": "Masonry",
+		"quote": "'The High King will rule them all'"
+	},
+	{
+		"name": "Shannon Bridge",
+		"replaces": "Statue of Zeus",		
+		"culture": 1,
+		"isWonder": true,
+		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>"],
+		"requiredTech": "Bronze Working",
+		"quote": "'we will walk where others swam' - The Iliad"
+		// "Requires [Honor]" in BNW
 	},
 	{
 		"name": "Shannon boaters",
