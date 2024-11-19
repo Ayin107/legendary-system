@@ -77,7 +77,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Carnyx'er",
+		"name": "Carnyxer",
 		"unitType": "Scout",
 		"uniqueTo": "Eire",	
 		"movement": 7,
