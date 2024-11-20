@@ -153,7 +153,6 @@
 		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>"],
 		"requiredTech": "Bronze Working",
 		"quote": "'we will walk where others swam' - The Iliad"
-		// "Requires [Honor]" in BNW
 	},
 	{
 		"name": "Shannon boaters",
