@@ -53,16 +53,6 @@
 		"quote": "'Seek ye first the Kingdom'"
 	},
 	{
-		"name": "The Kings Stone",
-		"replaces": "Mausoleum of Halicarnassus",	
-		"culture": 1,
-		"greatPersonPoints": {"Great Merchant": 1},
-		"isWonder": true,
-		"uniques": "[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]",
-		"requiredTech": "Masonry",
-		"quote": "'The High King will rule them all'"
-	},
-	{
 		"name": "Olive Garden",
 		"replaces": "Hanging Gardens",		
 		"greatPersonPoints": {"Great Artist": 1},
