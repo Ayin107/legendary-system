@@ -58,7 +58,7 @@
 		"culture": 1,
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
-		"uniques": ["Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
+		"uniques": ["Gain [100] [Gold] <upon expending a [Great Person] unit>",
 			"[+2 Gold] from [Marble] tiles [in this city]", "[+2 Gold] from [Stone] tiles [in this city]"],
 		"requiredTech": "Masonry",
 		"quote": "'The High King will rule them all'"
