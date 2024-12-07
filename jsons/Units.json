@@ -41,7 +41,7 @@
 		"movement": 10,
 		"strength": 10,
 		"cost": 25,
-		"uniques": ["Never appears as a Barbarian unit, "Founds a new city"],
+		"uniques": ["Never appears as a Barbarian unit", "Founds a new city"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
