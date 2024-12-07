@@ -41,8 +41,7 @@
 		"movement": 10,
 		"strength": 10,
 		"cost": 25,
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["Never appears as a Barbarian unit, "Founds a new city"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
@@ -70,10 +69,7 @@
 		"movement": 8,
 		"strength": 20,
 		"cost": 45,
-		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
-		"upgradesTo": "Caravel",
-		"obsoleteTech": "Astronomy",
+		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
 	{
