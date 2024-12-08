@@ -7,7 +7,8 @@
 		"happiness": 120,
 		"culture": 120,
 		"science": 120,
-		"maintenance": 96,
+		"cityStrength": 20,
+		"maintenance": -2,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
@@ -19,7 +20,7 @@
 		"culture": 2,
 		"cost": 40,
 		"hurryCostModifier": 40,
-		"maintenance": 1,
+		"maintenance": -1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -67,7 +68,8 @@
 		"replaces": "Temple",		
 		"culture": 3,
 		"requiredBuilding": "Monument",
-		"maintenance": 2,
+		"maintenance": -2,
+		"cityStrength": 20,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
 		"specialistSlots": {"Artist": 1},
