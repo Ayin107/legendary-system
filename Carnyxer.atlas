@@ -4,7 +4,7 @@ size: 95, 81
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Units/Carynxer
+TileSets/AbsoluteUnits/Units/Carynxer
   rotate: false
   xy: 0, 0
   size: 95, 81
