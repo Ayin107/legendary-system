@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/The Kings Stone
   rotate: false
-  xy: 0, 0
+  xy: 0, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
