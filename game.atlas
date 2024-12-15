@@ -39,4 +39,10 @@ BuildingIcons/The Western Gate
   orig: 100, 100
   offset: 0, 0
   index: -1
-
+BuildingIcons/Ancient pathways
+  rotate: false
+  xy: 300, 300
+  size: 0, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
