@@ -53,6 +53,13 @@ BuildingIcons/The Lake of Learning
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Olive Garden
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Shepherds Hill
   rotate: false
   xy: 200, 200
