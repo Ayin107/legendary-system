@@ -4,6 +4,20 @@ size: 400, 400
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Ancient pathways
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shannon boaters
+  rotate: false
+  xy: 0, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/The Kings Stone
   rotate: false
   xy: 0, 300
@@ -11,16 +25,16 @@ BuildingIcons/The Kings Stone
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/The Lake of Learning
+NationIcons/Eire
   rotate: false
-  xy: 100, 300
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Eire
+BuildingIcons/The Lake of Learning
   rotate: false
-  xy: 100, 0
+  xy: 100, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -39,10 +53,4 @@ BuildingIcons/The Western Gate
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Ancient pathways
-  rotate: false
-  xy: 300, 300
-  size: 0, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
+
