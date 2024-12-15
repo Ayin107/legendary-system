@@ -34,7 +34,7 @@ BuildingIcons/The Pale
   index: -1
 BuildingIcons/The Western Gate
   rotate: false
-  xy: 200, 300
+  xy: 300, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
