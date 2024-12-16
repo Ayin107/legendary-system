@@ -38,7 +38,7 @@ NationIcons/Eire
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Jeremiahs Tomb
+BuildingIcons/Jeremiahs Tomb
   rotate: false
   xy: 100, 100
   size: 100, 100
