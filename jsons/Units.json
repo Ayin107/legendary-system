@@ -23,7 +23,7 @@
 		"cost": 70
 	},
 	{
-		"name": "Dessert Father",
+		"name": "Desert Father",
 		"unitType": "Civilian",
 		"uniqueTo": "Eire",
 		"replaces": "Settler",	
