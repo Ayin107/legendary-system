@@ -10,7 +10,7 @@
 		"range": 4,
 		"cost": 50,
 		"requiredTech": "Archery",
-		"promotions": ["Shielded","Logistics","Accuracy I", "Cover I"],
+		"promotions": ["Logistics","Accuracy I", "Cover I"],
 		"attackSound": "arrow"
 	},
 	{
@@ -21,7 +21,6 @@
 		"movement": 4,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 70
-		"promotions": ["Shielded"],
 	},
 	{
 		"name": "Desert Father",
@@ -30,7 +29,6 @@
 		"replaces": "Settler",	
 		"movement": 4,
 		"cost": 10,
-		"promotions": ["Shielded"],
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
@@ -44,7 +42,7 @@
 		"strength": 10,
 		"cost": 25,
 		"uniques": ["Never appears as a Barbarian unit", "Founds a new city"],
-		"promotions": ["Shielded","Ignore terrain cost"],
+		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -55,7 +53,6 @@
 		"movement": 4,
 		"strength": 16,
 		"cost": 40,
-		"promotions": ["Shielded"],
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
@@ -72,7 +69,6 @@
 		"movement": 8,
 		"strength": 20,
 		"cost": 45,
-		"promotions": ["Shielded"],
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
@@ -83,7 +79,6 @@
 		"movement": 7,
 		"strength": 49,
 		"cost": 14,
-		"promotions": ["Shielded"],
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
