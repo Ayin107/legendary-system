@@ -164,3 +164,10 @@ UnitIcons/Seeker
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Carynxer
+  rotate: false
+  xy: 600, 196
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
