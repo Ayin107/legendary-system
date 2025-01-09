@@ -171,3 +171,10 @@ TileSets/FantasyHex/Units/Carynxer
   orig: 32, 28
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Shielded
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
